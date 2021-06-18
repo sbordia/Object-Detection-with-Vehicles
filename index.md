@@ -1,11 +1,10 @@
-﻿# Project Name/Title Goes Here
+﻿# Object Detection Model For Cars
 I worked on an object detection model using machine learning to accurately predict the type of car, specifically the model of it, when its image is captured. In addition, any time a car comes too close to you on the road, I created a design so that an alert will pop up on your phone as a notificationto be aware of your surroundings, especially at that particular time.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Sanay Bordia | Archbishop Mitty | Computer Science/Machine Learning | Incoming Junior
 
-![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
 
 ![Object Detection with Cars](http://www.nanrussell.com/wp-content/uploads/2016/08/Progress.jpg)
 
