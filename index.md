@@ -5,9 +5,6 @@ I worked on an object detection model using machine learning to accurately predi
 |:--:|:--:|:--:|:--:|
 | Sanay Bordia | Archbishop Mitty | Computer Science/Machine Learning | Incoming Junior
 
-
-![Object Detection with Cars](http://www.nanrussell.com/wp-content/uploads/2016/08/Progress.jpg)
-
   
 # Final Milestone
 My final milestone is setting up my server on the raspberry pi instead of my own computer and calling the results from there, which it gets from Nanonets. The concept is the same as Milestone 2, except I was able to successfully integrate my raspberry pi into the project. 
