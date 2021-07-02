@@ -5,7 +5,13 @@ I worked on an object detection model using machine learning to accurately predi
 |:--:|:--:|:--:|:--:|
 | Sanay Bordia | Archbishop Mitty | Computer Science/Machine Learning | Incoming Junior
 
-  
+# Demo Night
+
+Challenges: One of the main challenges I had was getting my Android App to work with my backend. Unfortunately, I was never able to successfully send an image to the backend through the app. My solution to create a web app that would have the same function. I was able to get it to send an image to the raspberry pi, and from there the rest of my code worked. Another challenge I had was manually uploading and annotating all my files onto Nanonets. My solution was to create a python script that would run a for loop through each of the images and do the annotations for me. 
+
+
+Reflection: Overall, I realized I like the software/problem solving side of computer science a lot. Though debugging and errors can be really frustrating, fixing them and getting the code to work is really worth it. This project also helped me understand more about machine learning as I had never actually integrated it into my code before or really used it. The amount of paths and possibilies someone can explore with object detection cannot be numbered.
+
 # Final Milestone
 My final milestone is setting up my server on the raspberry pi instead of my own computer and calling the results from there, which it gets from Nanonets. The concept is the same as Milestone 2, except I was able to successfully integrate my raspberry pi into the project.\
 
